@@ -23,10 +23,13 @@
 
 ## Introduction
 
-Record information about maintenance and repairs done to vehicles. Built with Kotlin, Android Jetpack libraries, Gradle
+Record information about maintenance and repairs done to vehicles. Built with Kotlin, Android
+Jetpack libraries, Gradle
 and Android Studio.
 
-**<a href="https://play.google.com/store/apps/details?id=com.pkndegwa.mycarmaintenance" target="_blank">Available on Google Play Store.</a>**
+*
+*<a href="https://play.google.com/store/apps/details?id=com.pkndegwa.mycarmaintenance" target="_blank">
+Available on Google Play Store.</a>**
 
 <p align="center">
   <img src = "app/src/main/res/drawable-nodpi/screenshot1.jpg">
